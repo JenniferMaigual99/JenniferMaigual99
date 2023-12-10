@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jennifer Maigual
+# ¡Hola! 👋 Soy Jennifer Maigual 🌟
 
 ## Acerca de Mí
 
@@ -6,27 +6,27 @@ Soy licenciada en informática y actualmente estoy enfocada en mi desarrollo com
 
 ## Experiencia y Educación
 
-- **Licenciatura en Informática** - [Universidad de Nariño](#), 2023
-- **Desarrolladora Backend en Formación** - [MAKAIA], Agosto 2023 - Actualidad
+- **Licenciatura en Informática** - [Universidad de Nariño](#), 2023 🎓
+- **Desarrolladora Backend en Formación** - [MAKAIA], Agosto 2023 - Actualidad 💻
 
 ## Tecnologías y Herramientas
 
-- Java
-- Spring Boot
-- MySQL
-- IntelliJ IDEA
-- Postman
+- Java ☕
+- Spring Boot 🚀
+- MySQL 🛢️
+- IntelliJ IDEA 💡
+- Postman 📬
 
 ## Habilidades Blandas
 
-- Empatía
-- Comunicación Asertiva
-- Trabajo en Equipo
+- Empatía ❤️
+- Comunicación Asertiva 🗣️
+- Trabajo en Equipo 🤝
 
 ## Contacto
 
-- LinkedIn: [(https://www.linkedin.com/in/jennifer-daniela-maigual-alvarez/)]
-- Correo Electrónico: jennifer99@udenar.edu.co
+- LinkedIn: [Jennifer Maigual](https://www.linkedin.com/in/jennifer-daniela-maigual-alvarez/) 📎
+- Correo Electrónico: jennifer99@udenar.edu.co 📧
 
 ## Objetivos Futuros
 
@@ -36,6 +36,4 @@ Soy licenciada en informática y actualmente estoy enfocada en mi desarrollo com
 
 ## ¡Conéctate conmigo!
 
-¡Me encantaría conocer a más personas en el mundo de la tecnología y el desarrollo! Siéntete libre de contactarme para discutir sobre proyectos, colaboraciones o cualquier cosa relacionada con el desarrollo.
-
-
+¡Me encantaría conocer a más personas en el mundo de la tecnología y el desarrollo! Siéntete libre de contactarme para discutir sobre proyectos, colaboraciones o cualquier cosa relacionada con el desarrollo. 🚀
