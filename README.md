@@ -1,16 +1,41 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Jennifer Maigual
 
-<!--
-**JenniferMaigual99/JenniferMaigual99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
 
-Here are some ideas to get you started:
+Soy licenciada en informática y actualmente estoy enfocada en mi desarrollo como desarrolladora backend. Disfruto trabajando con tecnologías como Java, Spring Boot, MySQL, y uso herramientas como IntelliJ IDEA y Postman para mis proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiencia y Educación
+
+- **Licenciatura en Informática** - [Universidad de Nariño](#), 2023
+- **Desarrolladora Backend en Formación** - [MAKAIA], Agosto 2023 - Actualidad
+
+## Tecnologías y Herramientas
+
+- Java
+- Spring Boot
+- MySQL
+- IntelliJ IDEA
+- Postman
+
+## Habilidades Blandas
+
+- Empatía
+- Comunicación Asertiva
+- Trabajo en Equipo
+
+## Contacto
+
+- LinkedIn: [(https://www.linkedin.com/in/jennifer-daniela-maigual-alvarez/)]
+- Correo Electrónico: jennifer99@udenar.edu.co
+
+## Objetivos Futuros
+
+- Seguir aprendiendo y mejorando mis habilidades en el desarrollo backend.
+- Contribuir a proyectos de código abierto.
+- Participar en eventos y comunidades de desarrollo.
+
+## ¡Conéctate conmigo!
+
+¡Me encantaría conocer a más personas en el mundo de la tecnología y el desarrollo! Siéntete libre de contactarme para discutir sobre proyectos, colaboraciones o cualquier cosa relacionada con el desarrollo.
+
+
