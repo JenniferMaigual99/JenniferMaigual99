@@ -2,7 +2,7 @@
 
 ## Acerca de Mí
 
-Soy licenciada en informática y actualmente estoy enfocada en mi desarrollo como desarrolladora backend. Disfruto trabajando con tecnologías como Java, Spring Boot, MySQL, y uso herramientas como IntelliJ IDEA y Postman para mis proyectos.
+Soy licenciada en informática y actualmente estoy enfocada en fortalecer mis competencias como desarrolladora Backend. Disfruto trabajando con tecnologías como Java, Spring Boot, MySQL, y uso herramientas como IntelliJ IDEA y Postman para mis proyectos.
 
 ## Experiencia y Educación
 
